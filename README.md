@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Shadab</h1>
 <p>
 <h3><i>A passionate full stack developer from Prayagraj</i> </h3><br>
-🔭 I’m currently working on developing a full-stack web application using React and Angular.js to streamline campus resource management. <br>
+🔭 I'm currently building a full-stack web app using React and AngularJS to streamline campus resource management.<br>
 🌱 I’m currently learning advanced web development concepts and backend integration. <br>
 🤝 I’m open to collaborating on Open Source Projects and Innovative Ideas. <br>
 💬 Ask me about Web Development, Python, Java or anything tech-related. <br>
